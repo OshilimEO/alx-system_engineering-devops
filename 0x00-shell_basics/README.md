@@ -17,3 +17,4 @@ A script that lists all files in the current directory and the parent of the wor
 A script that prints the type of the file name.
 A script that prints the type of the file name.
 A script that prints the type of the file name
+script that prints the type of the file name
