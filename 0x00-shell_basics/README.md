@@ -21,3 +21,4 @@ script that prints the type of the file name
 Script that prints the type of the file name
 Script that prints the type of the file name
 Script that prints the type of the file name
+Symbolic link should be created in the current working directory.
