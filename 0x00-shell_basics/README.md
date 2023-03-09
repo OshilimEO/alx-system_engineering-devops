@@ -8,3 +8,4 @@ Display current directory contents in long format with user and group IDs displa
 A script that creates a directory named my_first_directory in the /tmp/ directory
 Move the file betty from /tmp/ to /tmp/my_first_directory
 Move the file betty from /tmp/ to /tmp/my_first_directory
+Delete the file betty.
