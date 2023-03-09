@@ -20,3 +20,4 @@ A script that prints the type of the file name
 script that prints the type of the file name
 Script that prints the type of the file name
 Script that prints the type of the file name
+Script that prints the type of the file name
