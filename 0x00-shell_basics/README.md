@@ -22,3 +22,4 @@ Script that prints the type of the file name
 Script that prints the type of the file name
 Script that prints the type of the file name
 Symbolic link should be created in the current working directory.
+Script that copies all the HTML files from the current working directory to the parent of the working directory
