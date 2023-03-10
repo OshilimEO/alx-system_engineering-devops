@@ -10,3 +10,4 @@ Script that adds execution permission to the owner, the group owner and the othe
 Script that sets the permission to other users alone
 Script that sets the mode of the file hello the same as olleh’s mode
 Script that adds execute permission to all subdirectories of the current directory for all
+Script that creates a directory called my_dir with permissions 751 in the working directory.
