@@ -25,3 +25,4 @@ Symbolic link should be created in the current working directory.
 Script that copies all the HTML files from the current working directory to the parent of the working directory
 Script that copies all the HTML files from the current working directory to the parent of the working directory
 Script that moves all files beginning with an uppercase letter to a directory
+Script that deletes all files in the current working directory that end with the character ~
