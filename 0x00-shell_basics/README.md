@@ -26,3 +26,4 @@ Script that copies all the HTML files from the current working directory to the 
 Script that copies all the HTML files from the current working directory to the parent of the working directory
 Script that moves all files beginning with an uppercase letter to a directory
 Script that deletes all files in the current working directory that end with the character ~
+Script that creates the directories welcome/, welcome/to/ and welcome/to/school
